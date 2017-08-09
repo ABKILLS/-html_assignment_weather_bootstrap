@@ -3,7 +3,7 @@
 Weather+
 
 Weather+ is website designed in bootstrap 3.3.7 framework. It contains a header, navigation bar, weather map,
-temprature in different cities, related videos.
+temprature in different cities, related videos, seasons, some articles and footer
   
 folders--
 
