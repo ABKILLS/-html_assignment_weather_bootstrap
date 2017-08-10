@@ -7,7 +7,7 @@ temprature in different cities, related videos, seasons, some articles and foote
   
 folders--
 
-bootstrap 3.3.7 folder contains abootstrap framework
+css folder contains css file
 img folder contains all images used in projects
 files--
 
